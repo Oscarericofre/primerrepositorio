@@ -9,5 +9,7 @@ else:
 
 if t>r:
     print("malayas qlassdfgdd")
+    vyhnnuh
+io
 
     
